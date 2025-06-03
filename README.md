@@ -40,7 +40,10 @@ pip install -r requirements.txt
 python -m spacy download pt_core_news_sm
 ```
 
-Project Structure
+## Project Structure
+
+```
+.
 ├── data/               # Data files (raw and processed)
 ├── notebooks/          # Jupyter notebooks for analysis
 │   ├── 01_data_preprocessing.ipynb
@@ -50,6 +53,7 @@ Project Structure
 ├── models/             # Trained models
 ├── requirements.txt    # Project dependencies
 └── README.md          # This file
+```
 
 ## Usage
 
