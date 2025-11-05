@@ -1,7 +1,18 @@
-# Legal Document Topic Modeling: Analyzing Judicial Decisions with NLP
+# Interpreting Lawsuits Contexts through Probabilistic Topic Modeling
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Article Information
+
+JOURNAL: [Revista Eletrônica de Iniciação Científica em Computação, 2025, 23:1](https://journals-sol.sbc.org.br/index.php/reic/article/view/5962)
+
+AUTHORS: 
+   - Étore Braga e Santos [Universidade de São Paulo | etorebraga@usp.br]
+   - Ildeberto Aparecido Rodello [Universidade de São Paulo | rodello@usp.br]
+
+ISSN:3085-8461
+DOI: https://doi.org/10.5753/reic.2025.5962
 
 ## Overview
 
